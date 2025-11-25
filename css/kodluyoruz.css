@@ -1,0 +1,148 @@
+      body {
+            margin: 0;
+            padding: 0;
+
+      }
+
+      .clearfix {
+            clear: both ;
+      }
+
+      .container {
+            width: 1000px;
+            /* margin-left: auto;
+            margin-right: auto; */
+            margin: 50px auto 0;
+      }
+
+
+      .left-bar {
+            width: 200px;
+            float: left;
+      }
+
+      .content {
+            width: 800px;
+            float: left;
+      }
+
+      .card {
+            width: 20%;
+            float: left;
+            padding: 5%;
+            margin-right: 3%;
+            background-color: rgb(105, 101, 101);
+            border-radius: 15px;
+      }
+
+      .box {
+            width: 300px;
+            height: 1000px;
+            padding: 20px;
+            /* margin: 10px; */
+            /* margin-right: 10px; */
+            margin-left: 80px;
+            /* margin-top: 10px; */
+            /* margin-bottom: 10px; */
+            float: left;
+      }
+
+      .bg-red {
+            background-color: blue;
+      }
+
+      .bg-green {
+            background-color: green;
+      }
+
+      .bg-yellow {
+            background-color: yellow;
+      }
+      .google {
+            margin-left: 784px;
+            padding-top: 8px;
+      }
+      .container {
+             background-color: #EEEEEE;
+             width: 89%;
+             height: 60px;
+      }
+
+      .search-text {
+        text-align: center;
+        margin: 0;            /* tüm boşlukları sıfırlar */
+        padding: 0;           /* ekstra iç boşluk olmasın */
+        line-height: 14px;    /* yazıyı daha da yaklaştırır */
+      }
+      .container1 {
+            background-color: #7EE5DA;
+            width: 630px;
+            margin-top: 6px;
+            min-height: 68px;
+            padding-top: 10px;
+            line-height: 1.1;
+      }
+
+      .container2 {
+            background-color: #70CCC2;
+            width: 335px;
+            margin-top: -78px;
+            min-height: 70px;
+            padding-top: 8px;
+            margin-left: 632px;
+            margin-right: 0;
+            font-size: small;
+            line-height: 1.2;
+      }
+      .container3 {
+            background-color: #62B3AA;
+            width: 739px;
+            margin-left: 969px;
+            margin-top: -78px;
+            min-height: 71px;
+            font-size: small;
+            padding-top: 7px;
+      }
+      .arsiv-btn {
+            margin-right: 8px; /* boşluğu buradan ayarlarsın */
+
+      }
+      
+      .subscribe-btn {
+            margin-right: 8px; /* boşluğu buradan ayarlarsın */
+
+      }
+
+      .ortalama {
+            text-align: center;
+      }
+      .copyright {
+           font-size: small;
+           padding-top: 17px;
+      }
+       /* class -> .text-red {} */
+       /* id -> #id-bilgisi {} */
+
+       /* h1, h2, h3, h4, h5, h6 {
+        color: #5f5e5e;
+       }
+
+       #first-article {
+        font-size: 26px;
+       }
+
+       .text-red {
+           color: red;
+       }
+
+       .fs-14 {
+             font-size: 14px;
+       }
+
+       .fs-20 {
+             font-size: 20px;
+       }
+
+       .fs-30 {
+              font-size: 30px;
+       } */
